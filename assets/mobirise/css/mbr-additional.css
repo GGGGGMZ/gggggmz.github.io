@@ -1840,16 +1840,17 @@ body {
   font-size: 80px;
   color: #149dcc;
 }
-.cid-rsHkH0Esjm {
+.cid-rsHlBFWTaW {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rsHkH0Esjm .mbr-text {
+.cid-rsHlBFWTaW .mbr-text,
+.cid-rsHlBFWTaW blockquote {
   color: #767676;
 }
-.cid-rsHkH0Esjm .mbr-text p {
-  background: #ffffff;
+.cid-rsHlBFWTaW P {
+  text-align: left;
 }
 .cid-rsGIIbIzPt {
   padding-top: 30px;
