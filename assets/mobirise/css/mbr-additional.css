@@ -1925,6 +1925,29 @@ body {
   font-size: 80px;
   color: #149dcc;
 }
+.cid-rsGUBQFLOl {
+  background: #ffffff;
+}
+.cid-rsGUBQFLOl .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rsGUBQFLOl .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rsGUBQFLOl figcaption {
+  position: relative;
+}
+.cid-rsGUBQFLOl figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rsGUBQFLOl .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
